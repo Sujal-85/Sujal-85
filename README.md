@@ -40,7 +40,7 @@
 
 ### 🧰 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,typescript,tailwind,html,css,javascript,nodejs,express,mongodb,mysql,redis,python,flask,opencv,pandas,sklearn,seaborn,firebase,docker,jenkins,linux,git,postman,figma,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,typescript,tailwind,html,css,javascript,nodejs,express,mongodb,mysql,redis,python,flask,firebase,docker,jenkins,linux,git,postman,figma,azure,gcp" />
 </p>
 
 ---
