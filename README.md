@@ -69,7 +69,7 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sujal-85&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophies"/>
 </p>
 
@@ -77,7 +77,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sujal-85&label=Profile%20Views&color=0e75b6&style=flat" alt="Sujal-85" />
 </p>
 
----
+--- -->
 
 <p align="center">
   <i>✨ “Innovation starts with curiosity — and curiosity never ends.” ✨</i>
